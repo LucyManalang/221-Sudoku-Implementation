@@ -1,0 +1,3 @@
+# Sudoku-Implementation
+
+For this implementation, we chose to implement a few different types of Sudoku solvers (brute force, greedy, and exact cover) to showcase the differences between them. Running the main method in each `solver` class will show a visualization of how the specific algorithm steps through the problem in the terminal. You can also change the `delay` variable to change how quickly each step is shown. A delay of 0 will not show a visualization. There are also short test classes written to test the code.
